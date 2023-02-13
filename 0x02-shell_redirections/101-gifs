@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./*.gif -type d -empty -type f -empty -printf("%f\n") | sort
