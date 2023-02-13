@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ALX Se Cohorts" | tr 'Ac' 'Ze'
+echo "ALX Se cohorts" | tr 'Ac' 'Ze'
