@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ALX-Se-Cohort_12 | tr AC Ze
+echo ABC | tr AC Ze
